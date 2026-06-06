@@ -21,26 +21,21 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS Products
 
-### Core Platforms (Map Email Scrapers)
+| SaaS Product | Pricing | Free Tier / Limit | Key Features |
+| :--- | :--- | :--- | :--- |
+| **[AI Scrapers](https://aiscrapers.com/)** | Pay-as-you-go ($6+) | 10 free websites | AI-powered; extracts emails and contacts with high accuracy. |
+| **[BluTec Scout](https://blutecscout.com/)** | From $39/mo | **1,000 leads/mo** | Specialized G-Maps scraper; AI verification; social media extraction. |
+| **[Apify G-Maps Extractor](https://apify.com/)** | Pay-per-use (~$6/1k) | **$5 monthly credits** | Robust cloud platform; approx. 800-1,200 leads/mo for free. |
+| **[SocLeads](https://socleads.com/)** | From $59/mo | 100 contacts/mo | AI-driven; supports G-Maps, Instagram, LinkedIn, and TikTok. |
+| **[Outscraper](https://outscraper.com/)** | Pay-as-you-go (~$3/1k) | **500 businesses/mo** | Highly popular; includes reviews, emails, and business data. |
+| **[Phantombuster](https://phantombuster.com/)** | From ~$56/mo | 14-day trial (2h) | Workflow automation; 10-row export limit on free tier. |
+| **[Captain Data](https://captaindata.com/)** | From ~$400/mo | 100 free credits | API-first; designed for high-scale data infrastructure and AI agents. |
 
-- **[AI Scrapers](https://aiscrapers.com/)**  
-  AI-powered platform for scraping emails and contacts from Google Maps and other location sources with high accuracy.
+### Specialized Tools & Enrichment
 
-- **[BluTec Scout](https://blutecscout.com/)**  
-  Specialized Google Maps scraper focused on business email and contact extraction with advanced filtering.
-
-- **[Apify Google Maps Email Extractor](https://apify.com/)**  
-  Robust cloud scraping platform with dedicated actors for extracting emails, phones, and reviews from Google Maps.
-
-- **[SocLeads](https://socleads.com/)**  
-  AI-driven lead generation tool with strong Google Maps scraping and contact enrichment capabilities.
-
-- **[Outscraper](https://outscraper.com/)**  
-  Popular Google Maps scraping service offering emails, reviews, and business data with bulk export options.
-
-### Advanced & Specialized Platforms
-
-**Other notable mentions**: Phantombuster, Captain Data, and various Maps scraping tools with AI enrichment.
+- **[ScrapingBee](https://www.scrapingbee.com/)** - Proxy-based scraping API for bypassing blocks on Google Maps.
+- **[Bright Data](https://brightdata.com/)** - Enterprise-grade datasets and scraping browsers for massive scale.
+- **[Hunter.io](https://hunter.io/)** - For verifying emails discovered during the scraping process.
 
 ## Open-Source GitHub Projects
 
