@@ -1,11 +1,20 @@
 # 🗺️ Awesome Map Email Scrapers (2026) 🚀
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+	
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Map-Email-Scrapers.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Map-Email-Scrapers/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<br />
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 **A curated list of the best Google Maps Email Scrapers, Contact Extractors, and B2B Lead Generation tools.**  
 *Boost your outreach with AI-powered scraping, open-source actors, and local automation.*
+
+</div>
 
 ---
 
