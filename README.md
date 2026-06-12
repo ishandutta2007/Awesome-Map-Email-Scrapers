@@ -43,7 +43,7 @@ This repository is a comprehensive directory of **SaaS platforms** and **Open-So
 
 Compare the top-rated Google Maps scraping services and enrichment tools to find the best fit for your budget and scale.
 
-| SaaS Product | 🏢 Size (Est. Revenue) | 💰 Pricing | 🎁 Free Tier / Limit | ⚡ Key Features |
+| SaaS Product | 🏢 Company Size (Est. Revenue) | 💰 Pricing | 🎁 Free Tier / Limit | ⚡ Key Features |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Bright Data](https://brightdata.com/)** | ~$300M+ | From $500/mo | $25–$50 credits | Enterprise datasets & proxies. |
 | **[Apify](https://apify.com/)** | ~$14.7M | From $49/mo | **$5 monthly credits** | Cloud platform for all scraping. |
