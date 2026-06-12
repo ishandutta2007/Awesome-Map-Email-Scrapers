@@ -41,23 +41,20 @@ This repository is a comprehensive directory of **SaaS platforms** and **Open-So
 
 ## ✨ SaaS Products
 
-Compare the top-rated Google Maps scraping services to find the best fit for your budget and scale.
+Compare the top-rated Google Maps scraping services and enrichment tools to find the best fit for your budget and scale.
 
-| SaaS Product | 💰 Pricing | 🎁 Free Tier / Limit | ⚡ Key Features |
-| :--- | :--- | :--- | :--- |
-| **[AI Scrapers](https://aiscrapers.com/)** | Pay-as-you-go ($6+) | 10 free websites | AI-powered; high accuracy contact discovery. |
-| **[BluTec Scout](https://blutecscout.com/)** | From $39/mo | **1,000 leads/mo** | Specialized G-Maps scraper with AI verification. |
-| **[Apify G-Maps Extractor](https://apify.com/)** | Pay-per-use (~$6/1k) | **$5 monthly credits** | Robust cloud platform; ~1,000 leads/mo for free. |
-| **[SocLeads](https://socleads.com/)** | From $59/mo | 100 contacts/mo | AI-driven; supports Instagram, LinkedIn, and TikTok. |
-| **[Outscraper](https://outscraper.com/)** | Pay-as-you-go (~$3/1k) | **500 businesses/mo** | Includes reviews, emails, and bulk export. |
-| **[Phantombuster](https://phantombuster.com/)** | From ~$56/mo | 14-day trial (2h) | Workflow automation; 10-row export limit. |
-| **[Captain Data](https://captaindata.com/)** | From ~$400/mo | 100 free credits | API-first; high-scale data infrastructure. |
-
-### 🛠️ Specialized Tools & Enrichment
-
-- **[ScrapingBee](https://www.scrapingbee.com/)** 🐝 - Proxy-based scraping API for bypassing blocks.
-- **[Bright Data](https://brightdata.com/)** 🌐 - Enterprise-grade datasets and scraping browsers.
-- **[Hunter.io](https://hunter.io/)** 🎯 - Verify business emails discovered during scraping.
+| SaaS Product | 🏢 Size (Est. Revenue) | 💰 Pricing | 🎁 Free Tier / Limit | ⚡ Key Features |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Bright Data](https://brightdata.com/)** | ~$300M+ | From $500/mo | $25–$50 credits | Enterprise datasets & proxies. |
+| **[Apify](https://apify.com/)** | ~$14.7M | From $49/mo | **$5 monthly credits** | Cloud platform for all scraping. |
+| **[Phantombuster](https://phantombuster.com/)** | ~$10M+ | From ~$69/mo | 14-day trial (2h) | Automation workflows for sales. |
+| **[Hunter.io](https://hunter.io/)** | ~$8M+ | From $49/mo | 25–50 searches/mo | Verify business emails & leads. |
+| **[ScrapingBee](https://www.scrapingbee.com/)** | ~$5M+ | From $49/mo | 1,000 free credits | Proxy-based API; bypass blocks. |
+| **[Captain Data](https://captaindata.com/)** | ~$3.1M | From ~$399/mo | 100 free credits | API-first data infrastructure. |
+| **[AI Scrapers](https://aiscrapers.com/)** | ~$1M - $5M | Pay-as-you-go ($6+) | 10 free websites | AI-powered contact discovery. |
+| **[BluTec Scout](https://blutecscout.com/)** | ~$2M | From $39/mo | **1,000 leads/mo** | Specialized G-Maps AI scraper. |
+| **[Outscraper](https://outscraper.com/)** | ~$990K | Pay-as-you-go | **500 records/mo** | Reviews, emails, and bulk export. |
+| **[SocLeads](https://socleads.com/)** | ~$660K | From $59/mo | 100 contacts/mo | AI leads from social & maps. |
 
 ---
 
